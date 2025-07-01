@@ -6,17 +6,9 @@ Sou Gustavo Távora Cavalcante, profissional em transição para a área de Aná
 Atualmente estou me aprofundando em ferramentas como SQL, Power BI, Python para dados e Estatística aplicada, sempre buscando transformar dados em insights que ajudem na tomada de decisão. 📊
 Meu objetivo é atuar como Analista de Dados e, no futuro, liderar projetos que unam tecnologia, negócio e inteligência de mercado.
 Se quiser trocar ideias sobre dados, visualização ou resolver aquele problema chato de transformar planilhas em dashboards... pode me chamar!
-<p align="left">
-    <a href="www.linkedin.com/in/gustavo-távora-cavalcante-94b055242">
-        <img 
-             alt="Linkedin" 
-            title="Linkedin" 
-            width="30px" 
-            style="padding-right: 10px;" 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
-        />
-    </a>
-</p>
+<div>
+     <a href="www.linkedin.com/in/gustavo-távora-cavalcante-94b055242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ---
 
