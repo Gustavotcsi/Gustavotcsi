@@ -9,9 +9,9 @@ Se quiser trocar ideias sobre dados, visualização ou resolver aquele problema 
 <p align="left">
     <a href="www.linkedin.com/in/gustavo-távora-cavalcante-94b055242">
         <img 
-            alt="Linkedin" 
+             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=488207&label=Linkedin&logo=link&logoColor=white&style=for-the-badge&labelColor=488207"
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
 </p>
