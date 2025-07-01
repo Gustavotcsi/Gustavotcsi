@@ -7,11 +7,11 @@ Atualmente estou me aprofundando em ferramentas como SQL, Power BI, Python para 
 Meu objetivo é atuar como Analista de Dados e, no futuro, liderar projetos que unam tecnologia, negócio e inteligência de mercado.
 Se quiser trocar ideias sobre dados, visualização ou resolver aquele problema chato de transformar planilhas em dashboards... pode me chamar!
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+    <a href="www.linkedin.com/in/gustavo-távora-cavalcante-94b055242">
         <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=link&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=link&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a>
 </p>
