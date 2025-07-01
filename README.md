@@ -11,6 +11,8 @@ Se quiser trocar ideias sobre dados, visualização ou resolver aquele problema 
         <img 
              alt="Linkedin" 
             title="Linkedin" 
+            width="30px" 
+            style="padding-right: 10px;" 
             src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
         />
     </a>
