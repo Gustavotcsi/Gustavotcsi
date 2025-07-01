@@ -7,7 +7,7 @@ Atualmente estou me aprofundando em ferramentas como SQL, Power BI, Python para 
 Meu objetivo é atuar como Analista de Dados e, no futuro, liderar projetos que unam tecnologia, negócio e inteligência de mercado.
 Se quiser trocar ideias sobre dados, visualização ou resolver aquele problema chato de transformar planilhas em dashboards... pode me chamar!
 <div>
-     <a href="www.linkedin.com/in/gustavo-távora-cavalcante-94b055242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href="https://www.linkedin.com/in/gustavo-távora-cavalcante-94b055242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ---
