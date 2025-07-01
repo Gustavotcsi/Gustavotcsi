@@ -11,7 +11,7 @@ Se quiser trocar ideias sobre dados, visualização ou resolver aquele problema 
         <img 
             alt="Linkedin" 
             title="Linkedin" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=link&logoColor=white&style=for-the-badge&labelColor=C79600"
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=488207&label=Linkedin&logo=link&logoColor=white&style=for-the-badge&labelColor=488207"
         />
     </a>
 </p>
