@@ -6,7 +6,15 @@ Sou Gustavo Távora Cavalcante, profissional em transição para a área de Aná
 Atualmente estou me aprofundando em ferramentas como SQL, Power BI, Python para dados e Estatística aplicada, sempre buscando transformar dados em insights que ajudem na tomada de decisão. 📊
 Meu objetivo é atuar como Analista de Dados e, no futuro, liderar projetos que unam tecnologia, negócio e inteligência de mercado.
 Se quiser trocar ideias sobre dados, visualização ou resolver aquele problema chato de transformar planilhas em dashboards... pode me chamar!
-
+<p align="left">
+    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
+        <img 
+            alt="youtube subscribers" 
+            title="Inscreva-se no meu canal" 
+            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Linkedin&logo=link&logoColor=white&style=for-the-badge&labelColor=CE4630"
+        />
+    </a>
+</p>
 
 ---
 
@@ -60,6 +68,14 @@ Se quiser trocar ideias sobre dados, visualização ou resolver aquele problema 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
+          />
 
 <br/>
 <br/>
