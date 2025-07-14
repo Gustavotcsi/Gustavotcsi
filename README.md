@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Gustavo Távora
 
-**`Data Analytics`**
+**`Data Engineer`**
 
 Sou Gustavo Távora Cavalcante, profissional em transição para a área de Análise de Dados, com uma bagagem em administração e finanças que me ajuda a enxergar os números com um olhar mais estratégico.
 Atualmente estou me aprofundando em ferramentas como SQL, Power BI, Python para dados e Estatística aplicada, sempre buscando transformar dados em insights que ajudem na tomada de decisão. 📊
