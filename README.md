@@ -2,10 +2,11 @@
 
 **`Data Engineer`**
 
-Sou Gustavo Távora Cavalcante, profissional em transição para a área de Análise de Dados, com uma bagagem em administração e finanças que me ajuda a enxergar os números com um olhar mais estratégico.
-Atualmente estou me aprofundando em ferramentas como SQL, Power BI, Python para dados e Estatística aplicada, sempre buscando transformar dados em insights que ajudem na tomada de decisão. 📊
-Meu objetivo é atuar como Analista de Dados e, no futuro, liderar projetos que unam tecnologia, negócio e inteligência de mercado.
-Se quiser trocar ideias sobre dados, visualização ou resolver aquele problema chato de transformar planilhas em dashboards... pode me chamar!
+Sou Gustavo Távora Cavalcante, profissional em transição para a área de Engenharia de Dados, trazendo comigo uma base sólida em administração e finanças, o que me permite compreender dados com um olhar estratégico voltado para o negócio. Atualmente, estou me aprofundando em SQL, Python para dados, modelagem de banco de dados, ETL e conceitos de Big Data, com o objetivo de criar pipelines robustos e estruturas que facilitem a análise e o uso eficiente das informações.
+
+Acredito que dados bem estruturados são o alicerce para decisões inteligentes, e meu foco é transformar informações dispersas em bases consistentes e escaláveis. 🚀 Meu objetivo é atuar como Engenheiro de Dados e, no futuro, liderar projetos que integrem tecnologia, dados e estratégia corporativa.
+
+Se quiser trocar ideias sobre arquitetura de dados, integração de fontes ou otimização de processos... é só me chamar!
 <div>
      <a href="https://www.linkedin.com/in/gustavo-távora-cavalcante-94b055242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
