@@ -2,11 +2,12 @@
 
 **`Data Engineer`**
 
-Sou Gustavo Távora Cavalcante, profissional em transição para a área de Engenharia de Dados, trazendo comigo uma base sólida em administração e finanças, o que me permite compreender dados com um olhar estratégico voltado para o negócio. Atualmente, estou me aprofundando em SQL, Python para dados, modelagem de banco de dados, ETL e conceitos de Big Data, com o objetivo de criar pipelines robustos e estruturas que facilitem a análise e o uso eficiente das informações.
+Engenheiro de Dados com formação em Sistemas de Informação (Unichristus), experiência em Python, SQL, ETL, Big Data, Data Warehousing, Data Lakes e Power BI, atuando em empresas de médio porte e startups, como Prefeitura Municipal de Itaitinga e Startup Ecocycle. 
 
-Acredito que dados bem estruturados são o alicerce para decisões inteligentes, e meu foco é transformar informações dispersas em bases consistentes e escaláveis. 🚀 Meu objetivo é atuar como Engenheiro de Dados e, no futuro, liderar projetos que integrem tecnologia, dados e estratégia corporativa.
+Desenvolveu pipelines de dados automatizados (Python + Airflow) para análise de indicadores públicos, estruturou backends e bancos de dados relacionais em sistemas de gestão de resíduos sólidos na Ecocycle e participou de projetos de georreferenciamento para regularização fundiária na Prefeitura, entregando maior precisão cadastral, automação de processos e geração de insights estratégicos.
 
-Se quiser trocar ideias sobre arquitetura de dados, integração de fontes ou otimização de processos... é só me chamar!
+Competências técnicas: Cloud (AWS/GCP), Docker, Python, SQL, Power BI, ETL, modelagem de dados. Competências comportamentais: pensamento analítico, resolução de problemas, comunicação eficaz e orientação a resultados.
+
 <div>
      <a href="https://www.linkedin.com/in/gustavo-távora-cavalcante-94b055242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
