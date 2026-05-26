@@ -1,99 +1,68 @@
-# 👩🏻‍💻 Gustavo Távora
+# Gustavo — Desenvolvedor Full Stack
 
-**`Data Engineer`**
+Desenvolvedor Full Stack com formação em Sistemas de Informação (Unichristus),
+atuando no desenvolvimento de aplicações mobile, backends, integrações com APIs
+e automação de processos.
 
-Engenheiro de Dados com formação em Sistemas de Informação (Unichristus), experiência em Python, SQL, ETL, Big Data, Data Warehousing, Data Lakes e Power BI, atuando em empresas de médio porte e startups, como Prefeitura Municipal de Itaitinga e Startup Ecocycle. 
-
-Desenvolveu pipelines de dados automatizados (Python + Airflow) para análise de indicadores públicos, estruturou backends e bancos de dados relacionais em sistemas de gestão de resíduos sólidos na Ecocycle e participou de projetos de georreferenciamento para regularização fundiária na Prefeitura, entregando maior precisão cadastral, automação de processos e geração de insights estratégicos.
-
-Competências técnicas: Cloud (AWS/GCP), Docker, Python, SQL, Power BI, ETL, modelagem de dados. Competências comportamentais: pensamento analítico, resolução de problemas, comunicação eficaz e orientação a resultados.
-
-<div>
-     <a href="https://www.linkedin.com/in/gustavo-távora-cavalcante-94b055242" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+Experiência em startups e empresas de médio porte, com passagem por Prefeitura
+Municipal de Itaitinga, Startup Ecocycle e atualmente na Goener (energia), onde
+desenvolvo desde portais mobile em Flutter/Firebase até Cloud Functions em Go e
+pipelines de automação em Python.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Stack técnica
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
-          />
+**Linguagens**
+Python · Go · Dart · SQL
 
-<br/>
-<br/>
+**Frontend & Mobile**
+Flutter · Firebase
 
-### 📊 Estatísticas
+**Backend & APIs**
+Go (Cloud Functions) · FastAPI · REST APIs · Microsoft Graph API
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Gustavotcsi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+**Banco de Dados**
+PostgreSQL · Firestore (NoSQL) · Modelagem relacional
 
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavotcsi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+**Infra & DevOps**
+Docker · Git/GitFlow · Linux · Google Cloud (Firebase/GCP) · Azure
 
-</p>
+**IA & Automação**
+OpenAI API · LangChain · Engenharia de Prompt · RPA
 
+---
 
+## 💼 Experiência atual
+
+**Goener — Desenvolvedor Full Stack** *(2026 – presente)*
+- Portal do cliente em Flutter/Firebase com features de indicação, suporte
+  dinâmico e módulo de boletos
+- Cloud Functions em Go para integração ClickSign → GoGestão via webhook,
+  com criação automática de documentos no Firestore
+- Bot de automação de e-mails (Python + Microsoft Graph API) para dois
+  domínios de faturamento, deployado como pipeline agendado
+- Pipelines de dados em Python com exportação, alertas e relatórios
+  automáticos via Microsoft Graph API
+
+---
+
+## 📌 Projetos anteriores
+
+**Startup Ecocycle**
+Backend e banco de dados relacional para sistema de gestão de resíduos sólidos.
+
+**Prefeitura Municipal de Itaitinga**
+Automação de processos e georreferenciamento para regularização fundiária.
+
+---
+
+## 🎓 Formação
+
+**Sistemas de Informação — Unichristus** *(conclusão prevista 2026)*
+
+---
+
+## 📫 Contato
+
+[LinkedIn](https://www.linkedin.com/in/gustavo-t%C3%A1vora-cavalcante/?locale=pt) · gustavot.cavalcante@hotmail.com
